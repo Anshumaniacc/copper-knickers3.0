@@ -6,11 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/2vpcw3K/qw8580cw.png" alt="project-screenshot">
+<img src="https://i.postimg.cc/MKgQd94z/chess-app-ui.png" alt="project-screenshot">
 
-<img src="https://i.ibb.co/NK4Xpt0/chess-app-ui.png" alt="project-screenshot">
+<img src="https://i.postimg.cc/6QXGNytS/qw8580cw.png" alt="project-screenshot">
 
-<img src="https://i.ibb.co/VwH5Mq6/Whats-App-Image-2024-03-10-at-10-04-24.jpg" alt="project-screenshot">
+<img src="https://i.postimg.cc/Z53ygrtp/Whats-App-Image-2024-03-10-at-10-04-24.jpg" alt="project-screenshot">
 
   
   
