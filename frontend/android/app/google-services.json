@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458497466999",
+    "firebase_url": "https://chess-e38ed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chess-e38ed",
+    "storage_bucket": "chess-e38ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458497466999:android:c87d181176d40f12029c72",
+        "android_client_info": {
+          "package_name": "com.example.chess_aah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458497466999-entkddj2gaa8s4magen3qb5qjp0d42jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjL7mXSmCFW_iBBg9BspIu_08oUWTIuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458497466999-entkddj2gaa8s4magen3qb5qjp0d42jb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458497466999-1o2v4th0n96of40d39ngc6amu58fob9c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chessAah.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
