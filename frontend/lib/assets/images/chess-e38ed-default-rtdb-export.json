@@ -1,0 +1,51 @@
+{
+  "past_matches": {
+    "admin1%gmail^com": {
+      "test2%gmail^com": {
+        "draw": 5,
+        "lost": 5,
+        "won": 5
+      },
+      "test3%gmail^com": {
+        "draw": 1,
+        "lost": 3,
+        "won": 2
+      }
+    }
+  },
+  "recent_matches": {
+    "admin1%gmail^com": {
+      "test3%gmail^com": {
+        "moves": 50,
+        "result": "win"
+      }
+    }
+  },
+  "usernames": {
+    "admin1%gmail^com": {
+      "user_name": "Harsh"
+    },
+    "q%gmail^com": {
+      "user_name": "aa"
+    }
+  },
+  "win_percent": {
+    "admin1%gmail^com": {
+      "black": {
+        "draw": 0,
+        "lost": 60,
+        "win": 40
+      },
+      "overall": {
+        "draw": 10,
+        "lost": 40,
+        "win": 50
+      },
+      "white": {
+        "draw": 10,
+        "lost": 30,
+        "win": 60
+      }
+    }
+  }
+}
